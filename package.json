@@ -1,5 +1,5 @@
 {
-  "name": "react-localize-redux",
+  "name": "react-localize-redux-v2",
   "version": "2.17.5",
   "description": "Localization library for React/Redux",
   "main": "./lib/index.js",
